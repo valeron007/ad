@@ -1,8 +1,9 @@
+!vendor/autoload.php
 vendor/
 .idea/
 .vscode/
 
-!vendor/autoload.php
+
 
 users1.json
 users.json
