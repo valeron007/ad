@@ -1,0 +1,6 @@
+#Get-ADUser -Filter * -SearchBase "OU=Users,OU=ABX,OU=OU_Root,DC=int,DC=atosbox,DC=ru"
+
+<#
+$cred = Get-Credential
+Get-ADUSer tstuser -Server DC01.newdomain.ru -Credential $Cred
+#>

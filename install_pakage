@@ -1,0 +1,7 @@
+
+Unblock-File -Path C:\Users\administrator\Desktop\package\ldapcmdlets.22.0.8389.1.nupkg
+
+ Import-Module -Name C:\Program Files\WindowsPowerShell\Modules\ldapcmdlets
+
+$env:PSModulePath 
+
